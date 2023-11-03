@@ -13,6 +13,8 @@ To make this possible, it does:
 * Send them to a multi-modal (text + vision) model and ask it to describe the image
 * Inject the detailed (usually 2 paragraphs) description back into the image alt property
 
+Most of this is currently implemented in [source/content.js](./source/content.js).
+
 In its current form it is not ready to be published as an extension, but there are many possible
 directions to take it to:
 
