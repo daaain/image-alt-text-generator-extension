@@ -13,7 +13,7 @@ To make this possible, it does:
 
 ## 📹 Demo screencast
 
-https://github.com/daaain/image-alt-text-generator-extension/assets/69962/45d3d940-ca39-4a97-88a2-6c16f7f769d4
+https://github.com/daaain/image-alt-text-generator-extension/assets/69962/b0fdf1a8-320f-480a-8f2a-1f603d738030
 
 ## 🌋 LlaVa model
 
