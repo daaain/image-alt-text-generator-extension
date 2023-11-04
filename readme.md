@@ -33,7 +33,7 @@ https://github.com/daaain/image-alt-text-generator-extension/assets/69962/b0fdf1
 
 For this extension to work, you need to have LLaVa 1.5 running in the Llama.cpp web server.
 
-To set these up you can follow these steps on an Apple Silicon (M1/M2) Mac:
+To set these up you can follow these steps on an Apple silicon (M1/M2) Mac:
 
 ```sh
 git clone https://github.com/ggerganov/llama.cpp.git

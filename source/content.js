@@ -68,8 +68,6 @@ function imgToBase64JPEG(img) {
 
 let id = 0;
 async function getImgDescriptionFromLlamaCPP(imageBase64) {
-	// TODO: investigate using WebLLM
-	// See: https://github.com/lablab-ai/webgpu-llm-chrome-extension-starter/tree/main
 	id += 1;
 	const response = await fetch("http://localhost:8080/completion", {
 		method: "POST",
